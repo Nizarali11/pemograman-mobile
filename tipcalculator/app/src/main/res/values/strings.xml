@@ -1,0 +1,7 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">tip calculator</string>
+
+    <!-- Hint text for editable text field where the user enters the cost of service -->
+
+</resources>
